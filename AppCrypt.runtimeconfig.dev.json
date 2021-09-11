@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/crashangel/.dotnet/store/|arch|/|tfm|",
-      "/home/crashangel/.nuget/packages"
-    ]
-  }
-}
